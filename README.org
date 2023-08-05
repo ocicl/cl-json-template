@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://git.benkard.de/mulk/cl-json-template.git   |
-| commit  |   |
-| systems | cl-json-template |
-|---------+-------------------------------------------|
+36838f0---------+-------------------------------------------|
+36838f0 source  | git:https://git.benkard.de/mulk/cl-json-template.git   |
+36838f0 commit  |   |
+36838f0 systems | cl-json-template |
+36838f0---------+-------------------------------------------|
 
