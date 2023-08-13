@@ -5,5 +5,5 @@
 |---------+------------------------------------------------------|
 | source  | git:https://git.benkard.de/mulk/cl-json-template.git |
 | commit  | 36838f0                                              |
-| systems | (json-template)                                      |
+| systems | json-template                                        |
 |---------+------------------------------------------------------|
